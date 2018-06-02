@@ -16,7 +16,7 @@ import string
 import smtplib
 
 print """\
- 	    /\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\|
+      /\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\|
       |  Name: Mrsontolex       No System Is Safe                 |
       |  Team: PERSIT2K18                                         |
       |  Hobi: Yang Kamu suka aku pun ikut suka                   |
